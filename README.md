@@ -1,5 +1,7 @@
-# Youth_mall(청년몰)
+# Youth_mall ## (청년몰)
 ## 랜덤포레스트를 이용한 청년몰 최적입지선정 프로젝트
+
+### Project progress 😊
 
 * Mind Map for a topic
 * Youth Mall blog review data **Sentiment Analysis**
@@ -11,6 +13,7 @@
 * Remove **outliers**
 * **Multiple regression analysis**
 * Model selection by creating **5 machine learning models** and comparing their accuracy
+  => Selecting a **Random Forest** with an acurracy of 80.66%
 * By applying traditional market data to the model, the results of location analysis 
   according to sales are **divided into three grades.**
 * **Comparison** between the existing youth mall and the newly selected youth mall
