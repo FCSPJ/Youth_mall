@@ -15,7 +15,7 @@
 * Remove **outliers**
 * **Multiple regression analysis**
 * Model selection by creating **5 machine learning models** and comparing their accuracy
-  => Selecting a **Random Forest** with an acurracy of 80.66%
+*  => Selecting a **Random Forest** with an acurracy of 80.66%
 * By applying traditional market data to the model, the results of location analysis 
   according to sales are **divided into three grades.**
 * **Comparison** between the existing youth mall and the newly selected youth mall
