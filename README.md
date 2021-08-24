@@ -3,6 +3,7 @@
 
 ### Project progress 😊
 
+#### Based on KDD analysis methodology
 * Mind Map for a topic
 * Youth Mall blog review data **Sentiment Analysis**
 * Utilization data **collection and preprocessing** 
